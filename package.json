@@ -1,0 +1,12 @@
+﻿{
+  "name": "rbx-map-atelier",
+  "private": true,
+  "description": "Map atelier for Roblox Studio - place models and export to Luau.",
+  "keywords": [
+    "roblox",
+    "map",
+    "editor",
+    "atelier",
+    "studio"
+  ]
+}
